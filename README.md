@@ -3,7 +3,7 @@
 WanderLust is an end-to-end hotel booking web application that allows users to search, book, and manage hotel stays. Built using a full-stack JavaScript approach, it features a secure, responsive, and scalable design.
 
 ## 🌐 Live Demo
-(Coming soon or insert deployed link here)
+https://wanderlust-ndv1.onrender.com
 
 ## 🚀 Features
 - User Registration and Login with secure authentication
